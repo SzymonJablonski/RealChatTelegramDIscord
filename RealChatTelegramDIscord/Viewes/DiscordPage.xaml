@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="RealChatTelegramDIscord.DiscordPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:RealChatTelegramDIscord"
+             xmlns:mw="clr-namespace:RealChatTelegramDIscord.ViewesModels"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <mw:DiscordViewModel/>
+    </UserControl.DataContext>
+
+    <StackPanel>
+
+
+
+
+
+        <TextBlock HorizontalAlignment="Center" Margin="40"
+                                                      ForceCursor="True"
+                           Foreground="DarkBlue"
+                           FontStyle="Italic"
+                           FontSize="25"
+                           FontStretch="UltraExpanded"
+                           
+                           > DISCORD</TextBlock>
+
+
+
+        <TextBlock FontStyle="Italic"
+                           FontSize="13"
+                           Width="350">Token:</TextBlock>
+        <TextBox Width="350" Margin="0,5,0,20" 
+                         MaxLength="59" Text="{Binding Token, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged }" ></TextBox>
+        <TextBlock FontStyle="Italic"
+                           FontSize="13" 
+                           Width="350">TextChanneldId:</TextBlock>
+        <TextBox Width="350" Margin="0,5,0,20"
+                         MaxLength="18" Text="{Binding TextChanneldId, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <TextBlock FontStyle="Italic"
+                           FontSize="13"
+                           Width="350">Idchanel:</TextBlock>
+        <TextBox Width="350" Margin="0,5,0,20"
+                         MaxLength="18" Text="{Binding Idchanel, Mode=TwoWay}"
+                 ></TextBox>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,30,0,0">
+            <Button Content="Rozlacz" Height="30" Margin="10" Width="100" 
+                Command="{Binding LogUDiscord}"/>
+            <Button Content="Połącz" Height="30" Margin="10" Width="100" 
+                            
+                         Command="{Binding LogDiscord}"/>
+
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>

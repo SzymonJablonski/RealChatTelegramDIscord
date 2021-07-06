@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Szymon\\Desktop\\Nowy folder (4)\\01\\RealChatTelegramDIscord\\RealChatTelegramDIscord\\RealChatTelegramDIscord.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Szymon\\Desktop\\Nowy folder (4)\\01\\RealChatTelegramDIscord\\RealChatTelegramDIscord\\RealChatTelegramDIscord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Szymon\\Desktop\\Nowy folder (4)\\01\\RealChatTelegramDIscord\\RealChatTelegramDIscord\\RealChatTelegramDIscord.csproj",
+        "projectName": "RealChatTelegramDIscord",
+        "projectPath": "C:\\Users\\Szymon\\Desktop\\Nowy folder (4)\\01\\RealChatTelegramDIscord\\RealChatTelegramDIscord\\RealChatTelegramDIscord.csproj",
+        "packagesPath": "C:\\Users\\Szymon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Szymon\\Desktop\\Nowy folder (4)\\01\\RealChatTelegramDIscord\\RealChatTelegramDIscord\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Szymon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Discord.Net.Core": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[15.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

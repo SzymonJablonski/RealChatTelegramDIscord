@@ -1,0 +1,110 @@
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord_MarkupCompile.cache
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord_MarkupCompile.lref
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.exe
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.deps.json
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.runtimeconfig.json
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.runtimeconfig.dev.json
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\ref\RealChatTelegramDIscord.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.pdb
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.Core.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.Rest.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.WebSocket.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\System.Interactive.Async.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\System.Linq.Async.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Telegram.Bot.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.g.resources
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.AssemblyInfoInputs.cache
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.AssemblyInfo.cs
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.CopyComplete
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\ref\RealChatTelegramDIscord.dll
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.pdb
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.genruntimeconfig.cache
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\App.baml
+C:\Users\Szymon\source\repos\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord_MarkupCompile.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord_MarkupCompile.lref
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\ref\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.pdb
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.exe
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.deps.json
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.runtimeconfig.json
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\ref\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.pdb
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.Core.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.Rest.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.WebSocket.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\System.Interactive.Async.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\System.Linq.Async.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Telegram.Bot.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\App.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.g.resources
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.CopyComplete
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\TelegramPage.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\TelegramPage.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\DiscordPage.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\DiscordPage.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\RealChatTelegramDIscord — kopia\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.exe
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.deps.json
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.runtimeconfig.json
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.runtimeconfig.dev.json
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\ref\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\RealChatTelegramDIscord.pdb
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.Core.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.Rest.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Discord.Net.WebSocket.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\System.Interactive.Async.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\System.Linq.Async.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\bin\Debug\net5.0-windows\Telegram.Bot.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\DiscordPage.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\TelegramPage.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord_MarkupCompile.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord_MarkupCompile.lref
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\App.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\DiscordPage.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\Viewes\TelegramPage.baml
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.g.resources
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.csproj.CopyComplete
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\ref\RealChatTelegramDIscord.dll
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.pdb
+C:\Users\Szymon\Desktop\Nowy folder (4)\01\RealChatTelegramDIscord\RealChatTelegramDIscord\obj\Debug\net5.0-windows\RealChatTelegramDIscord.genruntimeconfig.cache

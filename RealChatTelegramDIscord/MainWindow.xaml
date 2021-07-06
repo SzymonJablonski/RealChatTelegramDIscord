@@ -1,0 +1,44 @@
+﻿<Window x:Class="RealChatTelegramDIscord.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealChatTelegramDIscord"
+        xmlns:mw="clr-namespace:RealChatTelegramDIscord.ViewesModels"
+        xmlns:i="clr-namespace:Microsoft.VisualBasic;assembly=Microsoft.VisualBasic.Core"
+        mc:Ignorable="d"
+        Title="RealChat" Height="500" Width="900" ResizeMode="NoResize">
+    
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type local:DiscordPage}">
+            <local:DiscordPage/>
+        </DataTemplate>
+    </Window.Resources>
+
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Rectangle  RadiusX="15" RadiusY="15" Margin="20"  Grid.Column="0" Fill="#FFE5E9F9"/>
+            <Rectangle  RadiusX="15" RadiusY="15" Margin="20"  Grid.Column="1" Fill="#FFE5E9F9"/>
+            <StackPanel Grid.Column="0">
+
+
+                <local:DiscordPage/>
+
+
+            </StackPanel>
+
+
+
+            <StackPanel Grid.Column="1">
+
+                <local:TelegramPage/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+    </Window>
